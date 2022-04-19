@@ -1,0 +1,36 @@
+.bold {
+    font-weight: bold;
+  }
+
+ul{
+      font-style: italic;
+  }
+
+.underline{
+    text-decoration: underline;
+}
+.justify{
+    text-align: justify;
+}
+
+a{
+    font-style: bold;
+}
+
+.gray{
+    color: rgba(209, 212, 213, 0.674);
+}
+
+.border{
+    text-decoration: wavy;
+}
+
+.mono{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.it{
+    font-style: italic;
+    font-size: small;
+}
